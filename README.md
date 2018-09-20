@@ -7,3 +7,6 @@ The aim of that competition and dataset is the people who become in clients and 
 
 From machine learning point of view, this dataset is unbalanced and challenging due to the 'unusefull' data which it constains.
 
+It is a large study about different machine learning algorithms, from logistic regression to 'deep' learning approach. To solve the problem of inbalance different techniques are taking into account: oversamplig minority class (SMOTE), undersampling mayority class and make the cost policy inbalanced(SVM and Deep Learning).
+
+The proyect was in Python with the use of Keras and Sklearn packages.
